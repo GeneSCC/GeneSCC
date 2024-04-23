@@ -1,11 +1,10 @@
 Hello this is my school account
 
 I am learning how to use the ff languages.
--web development
-  -php
-  -css
-  -html
-  -js
+-php
+-css
+-html
+-js
 -kotlin
 -java
 
